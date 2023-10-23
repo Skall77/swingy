@@ -1,5 +1,5 @@
 # swingy
-Text RPG in Java (Console and GUI)
+ text-based RPG game in Java (Console and GUI)
 
 # usage
 Make sure to have [Maven](https://maven.apache.org/) installed.
